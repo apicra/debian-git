@@ -1,8 +1,19 @@
 # debian-git
-# check if exist
-which git
-# Install git
-sudo apt update
-sudo apt install -y git
-# check version
-git --version
+
+### GIT INSTALL
+
+check if exist
+
+    which git
+
+Prepare linux
+    
+    sudo apt update
+
+Install git
+
+    sudo apt install -y git
+
+check version
+
+    git --version
